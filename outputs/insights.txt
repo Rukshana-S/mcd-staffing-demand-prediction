@@ -1,0 +1,16 @@
+
+McDonald's Restaurant Staffing Analysis
+
+1. Peak demand occurs around 20:00.
+
+2. MCD_MDU_01 handles the highest total order volume.
+
+3. Weekend average orders (127.1) are higher than weekday average orders (89.4).
+
+4. Holidays show increased customer demand (119.7) compared to non-holidays (98.2).
+
+5. Orders per Employee effectively identifies overstaffed and understaffed periods.
+
+6. Queue length changes can be compared with staffing levels using the calculated correlation.
+
+7. Hourly staffing recommendations help optimize employee scheduling.

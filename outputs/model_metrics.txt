@@ -1,0 +1,5 @@
+Random Forest Model Evaluation
+===================================
+MAE : 0.44
+RMSE: 0.55
+R²  : 0.957
